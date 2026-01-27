@@ -177,12 +177,3 @@ Using absolute paths avoids these issues.
 
 ---
 
-## 20. Day 1 Interview Summary
-
-Day 1 focuses on understanding:
-
-- How scripts are executed
-- How permissions and `$PATH` affect execution
-- The difference between built-in commands and executables
-
-These fundamentals are essential for debugging scripts in production and CI/CD environments.
